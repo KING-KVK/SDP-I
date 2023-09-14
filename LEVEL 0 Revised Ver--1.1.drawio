@@ -1,0 +1,830 @@
+<mxfile host="Electron" modified="2023-09-14T18:56:24.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="dndE6QIGoMd1zwPEzEbn" version="21.6.8" type="device">
+  <diagram name="Page-1" id="cw9fFKvnAfW_I-N1I-tk">
+    <mxGraphModel dx="-881" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-92" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="3319" y="11" width="1630" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;" parent="1" edge="1">
+          <mxGeometry x="-0.1291" y="-2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3558.261377245509" y="210.44501057082454" as="sourcePoint" />
+            <mxPoint x="4052.083982035928" y="352" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4052.083982035928" y="210.44501057082454" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-7" value="MANAGE CUSTOMER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.241" y="1" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-3" value="CUSTOMER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Inter;strokeWidth=2;shadow=1;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" parent="1" vertex="1">
+          <mxGeometry x="4715.785329341317" y="896.1321141649049" width="206.26497005988023" height="204.5031712473573" as="geometry" />
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-4" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;VISITOR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Inter;strokeWidth=2;shadow=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="4715.785329341317" y="30.001035940803384" width="206.26497005988023" height="204.5031712473573" as="geometry" />
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-5" value="TONSORIUM OWNER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Inter;strokeWidth=2;shadow=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="3368.996407185629" y="896.1321141649049" width="206.26497005988023" height="204.5031712473573" as="geometry" />
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-6" value="" style="endArrow=classic;html=1;rounded=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingLeft=0;spacingRight=275;fontSize=14;horizontal=1;fontStyle=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;" parent="1" edge="1">
+          <mxGeometry x="-0.0029" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3557" y="53" as="sourcePoint" />
+            <mxPoint x="4131" y="326" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4132.163323353293" y="52.85727272727273" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-2" value="LOGIN CREDENTIALS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.3884" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-8" value="" style="endArrow=classic;html=1;rounded=0;spacingRight=250;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="0.0926" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3558" y="105" as="sourcePoint" />
+            <mxPoint x="4105" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4104.976946107784" y="106.42598308668076" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-4" value="MANAGE PROFILE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.3579" relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;" parent="1" edge="1">
+          <mxGeometry x="-0.2041" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3557" y="159" as="sourcePoint" />
+            <mxPoint x="4078" y="338" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4078.1371257485025" y="158.73253699788583" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-5" value="MANAGE TONSORIUM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.2793" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontStyle=0" parent="1" edge="1">
+          <mxGeometry x="-0.4311" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="53" as="sourcePoint" />
+            <mxPoint x="4162" y="327" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4162.363173652695" y="52.85727272727273" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-12" value="REGISTRATION DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.3288" relative="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;" parent="1" edge="1">
+          <mxGeometry x="-0.362" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="106" as="sourcePoint" />
+            <mxPoint x="4185" y="331" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4186.41631736527" y="105.99046511627907" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-13" value="VIEW TONSORIUM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.2717" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-14" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.3297" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="158" as="sourcePoint" />
+            <mxPoint x="4211" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4210.682784431137" y="157.92069767441862" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-14" value="VIEW SERVICES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.1731" y="-1" relative="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;" parent="1" edge="1">
+          <mxGeometry x="-0.2393" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="214" as="sourcePoint" />
+            <mxPoint x="4236" y="353" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4235.522604790419" y="214.05389006342494" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-15" value="VIEW FEEDBACK AND RATINGS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.0888" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.4476" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4303" y="435.29913319238904" as="sourcePoint" />
+            <mxPoint x="4910.357185628743" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4910.357185628743" y="435.29913319238904" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-19" value="REGISTRATION ACKNOWLEDGEMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.6167" y="-1" relative="1" as="geometry">
+            <mxPoint x="83" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-19" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.3294" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4293" y="410.39849894291757" as="sourcePoint" />
+            <mxPoint x="4853" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4852.037574850299" y="410.39849894291757" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-18" value="TONSORIUM DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.5893" y="-2" relative="1" as="geometry">
+            <mxPoint x="97" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-20" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.2735" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4273" y="384.4978646934461" as="sourcePoint" />
+            <mxPoint x="4789.29131736527" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4789.29131736527" y="384.4978646934461" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-17" value="SERVICES DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.4749" relative="1" as="geometry">
+            <mxPoint x="93" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-21" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="0.0292" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4218" y="360" as="sourcePoint" />
+            <mxPoint x="4729" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4728.758383233533" y="360.7853911205074" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-16" value="FEEDBACK AND RATING DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.2466" y="-1" relative="1" as="geometry">
+            <mxPoint x="83" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-25" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.2547" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3996" y="410" as="sourcePoint" />
+            <mxPoint x="3441" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3441.7823353293415" y="409.5718604651163" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-9" value="PROFILE DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.4028" y="1" relative="1" as="geometry">
+            <mxPoint x="-37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-27" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;align=left;horizontal=1;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;" parent="1" edge="1">
+          <mxGeometry x="-0.2008" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3984" y="435" as="sourcePoint" />
+            <mxPoint x="3380" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3381.3429640718564" y="434.70505285412264" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-10" value="LOGIN ACKNOWLEDGEMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.3953" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-28" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.5212" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3975.6580838323353" y="470.7642494714588" as="sourcePoint" />
+            <mxPoint x="3381.1296407185628" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3381.1296407185637" y="470.7642494714588" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-20" value="LOGIN ACKNOWLEDGEMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-28" vertex="1" connectable="0">
+          <mxGeometry x="-0.4311" y="-1" relative="1" as="geometry">
+            <mxPoint x="45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-29" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.4873" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3975.6580838323353" y="490.80864693446097" as="sourcePoint" />
+            <mxPoint x="3412.6760479041914" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3412.6760479041923" y="490.80864693446097" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-21" value="PROFILE DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.3822" relative="1" as="geometry">
+            <mxPoint x="54" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-30" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.4213" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3984.151347305389" y="530.6944820295984" as="sourcePoint" />
+            <mxPoint x="3473.342215568863" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3473.342215568863" y="530.6944820295984" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-23" value="SERVICES DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-30" vertex="1" connectable="0">
+          <mxGeometry x="-0.3048" y="-1" relative="1" as="geometry">
+            <mxPoint x="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-31" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.3732" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3990.217964071856" y="550.5359196617336" as="sourcePoint" />
+            <mxPoint x="3502.4619760479045" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3502.4619760479045" y="550.5359196617336" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-24" value="APPOINTMENT DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-31" vertex="1" connectable="0">
+          <mxGeometry x="-0.2424" y="2" relative="1" as="geometry">
+            <mxPoint x="55" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-32" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.3179" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3999.924550898204" y="570.1743974630022" as="sourcePoint" />
+            <mxPoint x="3531.581736526946" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3531.5817365269468" y="570.1743974630022" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-25" value="PAYMENT DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.1832" relative="1" as="geometry">
+            <mxPoint x="55" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-33" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;spacingTop=3;exitX=0.094;exitY=0.792;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-0.2578" y="-2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4009.631137724551" y="590.4279281183931" as="sourcePoint" />
+            <mxPoint x="3561.9148203592813" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3561.914820359282" y="590.8128752642707" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-26" value="FEEDBACK AND RATINGS DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.1286" y="3" relative="1" as="geometry">
+            <mxPoint x="53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-38" value="TONSORIUM STAFF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Inter;strokeWidth=2;shadow=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="4048.4574850299405" y="896.1321141649049" width="206.26497005988023" height="204.5031712473573" as="geometry" />
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-46" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;ADMIN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;fontFamily=Inter;strokeWidth=2;shadow=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="3368.996407185629" y="30.001035940803384" width="206.26497005988023" height="204.5031712473573" as="geometry" />
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-47" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry x="0.0588" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4245.5892215568865" y="636.5253488372093" as="sourcePoint" />
+            <mxPoint x="4245.5892215568865" y="896" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-16" value="LOGIN ACKNOWLEDGEMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-47" vertex="1" connectable="0">
+          <mxGeometry x="0.2184" y="3" relative="1" as="geometry">
+            <mxPoint y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-48" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4228.322754491018" y="647.5549471458775" as="sourcePoint" />
+            <mxPoint x="4228.322754491018" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-17" value="PROFILE DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-48" vertex="1" connectable="0">
+          <mxGeometry x="0.0952" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-50" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry x="0.0047" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4210.05628742515" y="654.7727061310783" as="sourcePoint" />
+            <mxPoint x="4210.05628742515" y="896" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-41" value="APPOINTMENT DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-50" vertex="1" connectable="0">
+          <mxGeometry x="0.1875" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-51" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4095.1236526946104" y="896" as="sourcePoint" />
+            <mxPoint x="4095.1236526946104" y="660.7727061310783" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-36" value="VIEW AND CANCEL APPOINTMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-51" vertex="1" connectable="0">
+          <mxGeometry x="-0.1089" y="2" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-52" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry x="-0.0564" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4074.8571856287426" y="896" as="sourcePoint" />
+            <mxPoint x="4074.8571856287426" y="654.3519873150107" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-35" value="MANAGE PROFILE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.1492" y="1" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-53" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4055.590718562874" y="896" as="sourcePoint" />
+            <mxPoint x="4055.590718562874" y="645.3223890063425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-34" value="LOGIN CREDENTIALS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-53" vertex="1" connectable="0">
+          <mxGeometry x="-0.0522" y="1" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-54" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4114.390119760479" y="896" as="sourcePoint" />
+            <mxPoint x="4114.390119760479" y="665.3815856236787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-37" value="VIEW FEEDBACK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.3687" y="1" relative="1" as="geometry">
+            <mxPoint y="-42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-55" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.09;entryY=0.79;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5113" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3575.261377245509" y="916.5972304439747" as="sourcePoint" />
+            <mxPoint x="3991" y="595" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3939.258383233533" y="916.5972304439747" />
+              <mxPoint x="3939.258383233533" y="613.4513530655391" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-27" value="VIEW FEEDBACK AND RATINGS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-55" vertex="1" connectable="0">
+          <mxGeometry x="-0.5813" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-56" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.108;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5232" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3575.261377245509" y="944.0623467230445" as="sourcePoint" />
+            <mxPoint x="3991" y="606" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3948.964970059881" y="944.0623467230445" />
+              <mxPoint x="3950.1782934131734" y="624.0750317124736" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-28" value="MANAGE PAYMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-56" vertex="1" connectable="0">
+          <mxGeometry x="-0.5992" y="-2" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-57" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.129;entryY=0.836;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5378" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3575.261377245509" y="971.3245031712474" as="sourcePoint" />
+            <mxPoint x="4011" y="611" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3958.6715568862282" y="971.3245031712474" />
+              <mxPoint x="3959.8848802395205" y="635.6987103594081" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-29" value="VIEW AND CANCEL APPOINTMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-57" vertex="1" connectable="0">
+          <mxGeometry x="-0.5886" y="1" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-58" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5446" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3575.261377245509" y="998.5866596194505" as="sourcePoint" />
+            <mxPoint x="4011" y="621" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3969.5914670658685" y="998.5866596194505" />
+              <mxPoint x="3969.5914670658685" y="647.3223890063425" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-30" value="MANAGE SERVICES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-58" vertex="1" connectable="0">
+          <mxGeometry x="-0.6092" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-59" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.187;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5689" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3574.261377245509" y="1053" as="sourcePoint" />
+            <mxPoint x="4031" y="631" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3989.217964071857" y="1053.1109725158565" />
+              <mxPoint x="3990" y="671" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-32" value="MANAGE PROFILE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-59" vertex="1" connectable="0">
+          <mxGeometry x="-0.6163" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-60" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.208;entryY=0.914;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.583" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3575.261377245509" y="1080.1701691331925" as="sourcePoint" />
+            <mxPoint x="4041" y="641" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3999.924550898204" y="1080.1701691331925" />
+              <mxPoint x="4001" y="681" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-33" value="LOGIN CREDENTIALS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-60" vertex="1" connectable="0">
+          <mxGeometry x="-0.6141" y="-2" relative="1" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-66" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;" parent="1" edge="1">
+          <mxGeometry x="-0.1239" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4013" y="386" as="sourcePoint" />
+            <mxPoint x="3503" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3502.9552395209585" y="385.2801057082453" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-8" value="TONSORIUM DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-66" vertex="1" connectable="0">
+          <mxGeometry x="-0.347" y="1" relative="1" as="geometry">
+            <mxPoint x="-46" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-67" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.169;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5446" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3574.261377245509" y="1025.8488160676534" as="sourcePoint" />
+            <mxPoint x="4021" y="631" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3979.5113772455097" y="1025.8488160676534" />
+              <mxPoint x="3980.724700598802" y="657.7431078224101" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-31" value="MANAGE TONSORIUM STAFF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-67" vertex="1" connectable="0">
+          <mxGeometry x="-0.6291" y="-3" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-68" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.4727" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3979.2980538922156" y="511.6500845665962" as="sourcePoint" />
+            <mxPoint x="3441.7958083832336" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3441.795808383234" y="511.6500845665962" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-22" value="TONSORIUM STAFF DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-68" vertex="1" connectable="0">
+          <mxGeometry x="-0.3303" relative="1" as="geometry">
+            <mxPoint x="61" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-70" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.5212" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4313" y="469.96424947145886" as="sourcePoint" />
+            <mxPoint x="4910.528083832334" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4910.528083832333" y="469.96424947145886" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-15" value="LOGIN ACKNOWLEDGEMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-70" vertex="1" connectable="0">
+          <mxGeometry x="-0.5443" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-71" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.4873" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4315" y="488.80864693446097" as="sourcePoint" />
+            <mxPoint x="4879.658083832333" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4879.6580838323325" y="488.80864693446097" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-14" value="PROFILE DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-71" vertex="1" connectable="0">
+          <mxGeometry x="-0.5427" y="2" relative="1" as="geometry">
+            <mxPoint x="4" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-72" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.4213" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4308.342215568864" y="528.6944820295984" as="sourcePoint" />
+            <mxPoint x="4819.15134730539" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4819.15134730539" y="528.6944820295984" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-12" value="SERVICES DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-72" vertex="1" connectable="0">
+          <mxGeometry x="-0.4924" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-73" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.3732" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4300.4619760479045" y="549.5359196617336" as="sourcePoint" />
+            <mxPoint x="4788.217964071856" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4788.217964071856" y="549.5359196617336" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-11" value="APPOINTMENT DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-73" vertex="1" connectable="0">
+          <mxGeometry x="-0.4348" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-74" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.3179" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4289.581736526945" y="567.1743974630022" as="sourcePoint" />
+            <mxPoint x="4757.924550898203" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4757.924550898202" y="567.1743974630022" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-10" value="PAYMENT ACKNOWLEDGEMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-74" vertex="1" connectable="0">
+          <mxGeometry x="-0.4013" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-75" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;spacingTop=3;exitX=0.094;exitY=0.792;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-0.2578" y="-2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4281.004820359281" y="588.997928118393" as="sourcePoint" />
+            <mxPoint x="4728.721137724551" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4728.72113772455" y="589.3828752642708" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-9" value="FEEDBACK DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-75" vertex="1" connectable="0">
+          <mxGeometry x="-0.3101" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-76" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.913;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5113" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="916.9772304439747" as="sourcePoint" />
+            <mxPoint x="4301" y="597" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4359.800778443114" y="916.9772304439747" />
+              <mxPoint x="4359.800778443114" y="613.8313530655391" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-8" value="VIEW AND GIVE FEEDBACK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-76" vertex="1" connectable="0">
+          <mxGeometry x="-0.4363" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-77" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.899;entryY=0.807;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5232" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="944.0623467230445" as="sourcePoint" />
+            <mxPoint x="4311" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4350.296407185627" y="944.0623467230445" />
+              <mxPoint x="4349.0830838323345" y="624.0750317124736" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-6" value="MAKE PAYMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-77" vertex="1" connectable="0">
+          <mxGeometry x="-0.4259" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-78" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.883;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5378" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="970.3245031712474" as="sourcePoint" />
+            <mxPoint x="4290" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4340.5898203592815" y="970.3245031712474" />
+              <mxPoint x="4339.376497005989" y="634.6987103594081" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-5" value="VIEW,CANCEL,RESCHEDULE APPOINTMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-78" vertex="1" connectable="0">
+          <mxGeometry x="-0.4684" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-79" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.869;entryY=0.842;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5446" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="998.5866596194505" as="sourcePoint" />
+            <mxPoint x="4280" y="623" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4329.669910179639" y="998.5866596194505" />
+              <mxPoint x="4329.669910179639" y="647.3223890063425" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-4" value="VIEW SERVICES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-79" vertex="1" connectable="0">
+          <mxGeometry x="-0.4849" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-80" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.834;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5689" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="1053.1109725158565" as="sourcePoint" />
+            <mxPoint x="4279" y="657" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4308.860928143713" y="1053.1109725158565" />
+              <mxPoint x="4307.64760479042" y="669.3667864693447" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-2" value="MANAGE PROFILE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-80" vertex="1" connectable="0">
+          <mxGeometry x="-0.5155" y="1" relative="1" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-82" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.851;entryY=0.859;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.5446" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="1025.8488160676534" as="sourcePoint" />
+            <mxPoint x="4271" y="635" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4319.749999999998" y="1025.8488160676534" />
+              <mxPoint x="4318.536676646706" y="657.7431078224101" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-3" value="VIEW TONSORIUM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-82" vertex="1" connectable="0">
+          <mxGeometry x="-0.4835" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-83" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.4727" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4311.795808383234" y="509.6500845665962" as="sourcePoint" />
+            <mxPoint x="4849.298053892216" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4849.298053892215" y="509.6500845665962" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-13" value="TONSORIUM DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-83" vertex="1" connectable="0">
+          <mxGeometry x="-0.512" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-84" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4135.390119760479" y="896" as="sourcePoint" />
+            <mxPoint x="4135.390119760479" y="668.3815856236787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MtwuLuj17HvUOtw8YIHf-2" value="VIEW WORK DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-84" vertex="1" connectable="0">
+          <mxGeometry x="-0.281" y="1" relative="1" as="geometry">
+            <mxPoint y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-86" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4167.789820359281" y="665.5845454545455" as="sourcePoint" />
+            <mxPoint x="4167.789820359281" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MtwuLuj17HvUOtw8YIHf-3" value="WORK DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-86" vertex="1" connectable="0">
+          <mxGeometry x="0.0727" y="2" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-87" value="" style="endArrow=classic;html=1;rounded=0;horizontal=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4190.789820359281" y="661.5845454545455" as="sourcePoint" />
+            <mxPoint x="4190.789820359281" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-18" value="FEEDBACK DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-87" vertex="1" connectable="0">
+          <mxGeometry x="0.041" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-44" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=14;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
+          <mxGeometry x="0.069" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4049" y="361" as="sourcePoint" />
+            <mxPoint x="3561" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3561.310344827586" y="361" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8wd9IKHkQQwHc65l6duj-3" value="CUSTOMER DETAILS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-44" vertex="1" connectable="0">
+          <mxGeometry x="-0.2517" y="1" relative="1" as="geometry">
+            <mxPoint x="-69" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="3971.41" y="324.99" width="344.0397406529416" height="344.0397406529416" as="geometry" />
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-41" value="" style="endArrow=none;html=1;rounded=0;endSize=6;startSize=6;jumpSize=6;strokeWidth=3;shadow=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3995.4896551724137" y="408" as="sourcePoint" />
+            <mxPoint x="4291" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-42" value="LEVEL 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;fontFamily=Roboto;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="4035.9918465357487" y="349.32410976478974" width="219.19909553420013" height="46.93727726300785" as="geometry" />
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-43" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;TONSORIUM&lt;br style=&quot;font-size: 38px;&quot;&gt;TWITS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=38;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontStyle=1;spacing=2;horizontal=1;spacingBottom=3;" parent="1" vertex="1">
+          <mxGeometry x="4028.81" y="473.94" width="229.23" height="97.06" as="geometry" />
+        </mxCell>
+        <mxCell id="0B3zLSmvpdkR-Nhf8iE4-81" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;startSize=6;entryX=0.812;entryY=0.893;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0B3zLSmvpdkR-Nhf8iE4-40" edge="1">
+          <mxGeometry x="-0.583" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4716" y="1081" as="sourcePoint" />
+            <mxPoint x="4251.458348891494" y="627.2174884030769" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4297" y="1081" />
+              <mxPoint x="4296.543570124868" y="677.4" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_vpmJBqoYW_qHeiTRqR-1" value="LOGIN CREDENTIALS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Signika Negative;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSignika%2BNegative;fontSize=13;" parent="0B3zLSmvpdkR-Nhf8iE4-81" vertex="1" connectable="0">
+          <mxGeometry x="-0.5188" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
